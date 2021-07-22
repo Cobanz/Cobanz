@@ -1,18 +1,21 @@
 Hi there 👋, I'm Grant Nichols
-<br>
-🔭 I'm currently working on my latest projects
 </br>
-🌱 I'm currently learning everything 😂  but specifically JavaScript, ReactJS, Ruby, and Rails
+<br>
+🔭 I'm currently working on my personal portfolio
+</br>
+🌱 I'm currently learning as much as I can manage 😂  but specifically JavaScript, ReactJS, Ruby, and Rails
 </br>
 😄 Pronouns: He/Him
 </br>
-🥅 2021 Goals: Contribute more to Open Source projects
+🥅 2021 Goals: Find a job with a great growth environment 
 </br>
 📫 How to reach me: 📧  nichols.grant23@yahoo.com
 </br>
 ⚡ Fun fact: I like to fish and play DnD all the time!
 </br>
+
 Language and Tools:
+
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -26,13 +29,5 @@ Language and Tools:
 **Cobanz/Cobanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
