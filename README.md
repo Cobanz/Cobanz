@@ -9,7 +9,7 @@ Hi there 👋, I'm Grant Nichols
 </br>
 🥅 2021 Goals: Find a job with a great growth environment 
 </br>
-📫 How to reach me: 📧  nichols.grant23@yahoo.com
+📫 How to reach me: 📧  grantnicholsdev@gmail.com
 </br>
 ⚡ Fun fact: I like to fish and play DnD all the time!
 </br>
