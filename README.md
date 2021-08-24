@@ -3,11 +3,7 @@ Hi there 👋, I'm Grant Nichols
 <br>
 🔭 I'm currently working on my personal portfolio
 </br>
-🌱 I'm currently learning as much as I can manage 😂  but specifically JavaScript, ReactJS, Ruby, and Rails
-</br>
 😄 Pronouns: He/Him
-</br>
-🥅 2021 Goals: Find a job with a great growth environment 
 </br>
 📫 How to reach me: 📧  grantnicholsdev@gmail.com
 </br>
