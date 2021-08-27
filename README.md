@@ -3,8 +3,6 @@ Hi there 👋, I'm Grant Nichols
 <br>
 🔭 I'm currently working on my personal portfolio
 </br>
-😄 Pronouns: He/Him
-</br>
 📫 How to reach me: 📧  grantnicholsdev@gmail.com
 </br>
 ⚡ Fun fact: I like to fish and play DnD all the time!
